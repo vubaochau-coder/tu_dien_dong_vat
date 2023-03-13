@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545691440940",
+    "project_id": "animal-dictionary",
+    "storage_bucket": "animal-dictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545691440940:android:11353fa57a093042aafe89",
+        "android_client_info": {
+          "package_name": "com.example.tu_dien_dong_vat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545691440940-5m2asegccesmevq5ncrkk2jqfksf664h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLVgIBW7BcHQ-3CVSKP2tvHgGCiATu6zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545691440940-5m2asegccesmevq5ncrkk2jqfksf664h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
